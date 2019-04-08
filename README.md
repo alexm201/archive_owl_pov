@@ -9,6 +9,8 @@ requirements:
 
 Streamlink https://github.com/streamlink/streamlink
 
+The screen utility found on linux systems is needed.
+
 
 usage:
 
