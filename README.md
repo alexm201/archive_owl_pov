@@ -4,7 +4,13 @@ twitchRecorder script by: https://www.junian.net/python-record-twitch/
 
 owl_cc_getids script by: https://gist.github.com/Benjins/ae2535d28008a224686f2ce005c47b0d
 
-Usage:
+
+requirements:
+
+Streamlink https://github.com/streamlink/streamlink
+
+
+usage:
 
 python archive_pov.py [options]
 
