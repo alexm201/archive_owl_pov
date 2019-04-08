@@ -1,4 +1,4 @@
-# Slightly changed version of Benjis Gist https://gist.github.com/Benjins/ae2535d28008a224686f2ce005c47b0d to suit the my script.
+# Slightly changed version of Benjis Gist https://gist.github.com/Benjins/ae2535d28008a224686f2ce005c47b0d to suit my script.
 
 
 # This script lists the various streams that OWL All-Access Pass viewers can tune into. This info can be
